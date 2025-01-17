@@ -33,4 +33,3 @@ jobs:
       id-token: write
       pages: write
     # Most of the file is unchanged
-
